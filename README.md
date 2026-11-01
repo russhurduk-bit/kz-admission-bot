@@ -1,7 +1,7 @@
 # KZ Admission Helper Bot
 
-A GPT-4o powered Telegram assistant that guides prospective students through the
-full journey of enrolling at a university in Kazakhstan (Almaty) — choosing a
+A GPT-4o powered Telegram assistant for common tasks in applying to a
+university in Kazakhstan (Almaty) — choosing a
 university, assembling documents, handling relocation, military-registration
 questions, and staying on top of admission deadlines.
 
