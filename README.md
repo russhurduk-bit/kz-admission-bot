@@ -105,6 +105,8 @@ cp .env.example .env
 python bot.py
 ```
 
+Run the retrieval-isolation check with `python -m unittest discover -s tests`.
+
 The bot uses long polling. On start it registers its command menu and
 initializes the local database automatically.
 
